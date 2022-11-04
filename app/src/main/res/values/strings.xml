@@ -1,0 +1,48 @@
+<!--
+     Copyright (C) 2022 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">D Folwers</string>
+    <string name="order_Flower">Order</string>
+    <string name="one_Flower">one Flower</string>
+    <string name="six_Flower">six Flowers</string>
+    <string name="twelve_Flower">Twelve Flowers</string>
+    <string name="choose_Flower">Choose Flower</string>
+    <string name="Mmerah">Mawar Merah</string>
+    <string name="Mbiru">Mawar biru</string>
+    <string name="Mputih">Mawar Putih</string>
+    <string name="melati">Melati</string>
+    <string name="anggrek">Anggrek</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date"> Pengambilan</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Jenis</string>
+    <string name="pickup_date">Pengambilan date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">jumlah: %1$s \n jenis: %2$s \pengambilan date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+    <string name="back_button">Back</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d flowers</item>
+        <item quantity="other">%d flowers</item>
+    </plurals>
+
+</resources>
